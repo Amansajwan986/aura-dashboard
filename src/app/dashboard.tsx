@@ -174,7 +174,7 @@ const Dashboard = () => {
                                 <h1 className="text-lg sm:text-xl lg:text-2xl font-bold text-gray-800 flex items-center truncate">
                                     Good morning, Admin <span className="ml-2 hidden sm:inline">👋</span>
                                 </h1>
-                                <p className="text-xs sm:text-sm text-gray-500 mt-1 hidden sm:block">Here's how your AI-SDR performed in the last 7 days.</p>
+                                <p className="text-xs sm:text-sm text-gray-500 mt-1 hidden sm:block">Here{"'"}s how your AI-SDR performed in the last 7 days.</p>
                             </div>
                         </div>
                         <div className="flex items-center space-x-2 sm:space-x-4">
@@ -334,7 +334,7 @@ const Dashboard = () => {
                                     <img width="15" height="10" src="https://img.icons8.com/external-vitaliy-gorbachev-flat-vitaly-gorbachev/58/ff59bb/external-brain-anatomy-vitaliy-gorbachev-flat-vitaly-gorbachev.png" alt="brain" />
                                     AURA Summary:
                                 </span>
-                                <span>I've drafted 64 emails, sent 18, and detected 2 positive replies. Your outreach is on track.</span>
+                                <span>I{"'"}ve drafted 64 emails, sent 18, and detected 2 positive replies. Your outreach is on track.</span>
                             </p>
                         </div>
                     </div>
